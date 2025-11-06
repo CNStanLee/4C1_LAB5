@@ -1,2 +1,5 @@
 *.npz
 *.pth
+*.tar.gz
+data/
+model/
